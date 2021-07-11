@@ -18,6 +18,6 @@ Use the Export Chat option
 ![step 4](images/step4.png)
 Export the chat without media, you can also include the media (images, videos, documents, ...), but they won't be used
 
-Run the script using
-    python3 main.py chat.txt
+
+Run the script using `python3 main.py chat.txt`
 Pass the exported chat file (chat.txt) as argument
