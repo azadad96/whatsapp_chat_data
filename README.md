@@ -6,16 +6,16 @@ Creates graphs from exported whatsapp chat data
 
 ## Usage (export chat from Android)
 
-![step 1](step1.png)
+![step 1](images/step1.png)
 Click the 3 dots in the top right of the app
 
-![step 2](step2.png)
+![step 2](images/step2.png)
 Select More
 
-![step 3](step3.png)
+![step 3](images/step3.png)
 Use the Export Chat option
 
-![step 4](step4.png)
+![step 4](images/step4.png)
 Export the chat without media, you can also include the media (images, videos, documents, ...), but they won't be used
 
 Run the script using
