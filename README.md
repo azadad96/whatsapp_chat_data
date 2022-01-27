@@ -1,8 +1,9 @@
 # Whatsapp Chat Data
 Creates graphs from exported whatsapp chat data
 
-![private chat](images/result1.png)
-![group chat](images/result2.png)
+![time of day](images/result1.png)
+![date](images/result2.png)
+![pie chart](images/result3.png)
 
 ## Usage (export chat from Android)
 

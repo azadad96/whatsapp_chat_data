@@ -73,8 +73,7 @@ def plot(messages):
         width = 500, height = 500,
         x_range = (-0.5, 0.5),
         title = "Messages by Sender",
-        toolbar_location = None,
-        tools = "hover",
+        tools = "hover,pan,wheel_zoom,box_zoom,save,reset,help",
         tooltips = "@name: @value"
     )
     data = {}
